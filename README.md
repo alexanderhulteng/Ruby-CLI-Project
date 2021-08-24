@@ -1,2 +1,2 @@
-# Ruby-CLI-Project
-A ruby application for scraping external data
+# ShinyWagon
+A ruby gem for determining cars available for sale
