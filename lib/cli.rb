@@ -1,0 +1,6 @@
+class ShinyWagonBase::CLI
+
+
+
+
+end

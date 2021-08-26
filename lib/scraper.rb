@@ -1,0 +1,6 @@
+class ShinyWagonBase::Scraper
+
+
+
+
+end
